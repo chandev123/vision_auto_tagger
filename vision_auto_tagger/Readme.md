@@ -28,15 +28,21 @@
 project/
 ├── gui/
 │   └── main_app.py
+
 ├── api/
 │   └── openai_api.py
+
 ├── db/
 │   └── image_log.db
 │   └── moving.db
+
 ├── utils/
 │   └── file_handler.py
+
 ├── main.py
+
 ├── .env
+
 └── requirements.txt
 
 # 7.sinario

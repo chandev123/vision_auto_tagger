@@ -25,6 +25,8 @@
 <img width="1064" height="754" alt="archtetr" src="https://github.com/user-attachments/assets/41ff7a76-9347-4d37-b7e7-150bf4833b84" />
 
 # 6.structure of directory
+<img width="1064" height="754" alt="archtetr" src="https://github.com/user-attachments/assets/133aa98f-cc1f-4701-9a88-904a1d8cba6c" />
+
 project/
 ├── gui/
 │   └── main_app.py
@@ -34,7 +36,7 @@ project/
 
 ├── db/
 │   └── image_log.db
-│   └── moving.db
+│   └── PII.db
 
 ├── utils/
 │   └── file_handler.py
